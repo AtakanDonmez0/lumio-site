@@ -1,0 +1,4 @@
+# app-ads.txt for Lumio (Taptonic)
+# Replace pub-0000000000000000 with your AdMob publisher ID (AdMob ▸ Settings ▸ Account information),
+# then this file must be served at the ROOT of the developer website listed in the stores.
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
